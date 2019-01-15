@@ -4,7 +4,8 @@
   "description": "Following [YouTube Playlist](https://www.youtube.com/watch?v=r6I-Ahc0HB4&list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "watchalltest": "jest --watchAll"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/wuyeelok/learn-regex-2019/issues"
   },
-  "homepage": "https://github.com/wuyeelok/learn-regex-2019#readme"
+  "homepage": "https://github.com/wuyeelok/learn-regex-2019#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
