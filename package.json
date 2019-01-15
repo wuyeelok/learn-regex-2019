@@ -1,0 +1,19 @@
+{
+  "name": "learn-regex-2019",
+  "version": "1.0.0",
+  "description": "Following [YouTube Playlist](https://www.youtube.com/watch?v=r6I-Ahc0HB4&list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyeelok/learn-regex-2019.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuyeelok/learn-regex-2019/issues"
+  },
+  "homepage": "https://github.com/wuyeelok/learn-regex-2019#readme"
+}
